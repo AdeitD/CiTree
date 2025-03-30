@@ -1,0 +1,6 @@
+You need to have npm installed to run this app.
+
+1. Clone the monorepo
+2. cd ./CiTree/citree-frontend/
+3. run 'npm i --force' to install all needed packages
+4. run 'npm start' to start the web app locally, it should open up in your browser and run on localhost 3000

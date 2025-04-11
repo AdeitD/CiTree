@@ -17,16 +17,16 @@ Feature Screenshots:
 
 **Linked Citations Screen**
 
-![Linked Citations Screen](https://cdn.discordapp.com/attachments/635679572469350405/1355949009092608030/image.png?ex=67eac96c&is=67e977ec&hm=ebce011df84707366974fb12866adc66d361ab98bebb2578810c4e1a0a3458c9&)
+![Linked Citations Screen](https://drive.usercontent.google.com/download?id=1QKcOsPqdm_R0QJH_UIbry-KrJXMzQVY1)
 
 **Add Paper Screen**
 
-![Add Paper Screen](https://cdn.discordapp.com/attachments/635679572469350405/1355949672266469376/image.png?ex=67eaca0a&is=67e9788a&hm=cf305203a56f896ff6dad4b580b57574ec09abaab1e4ccadcd09df4a258f3b8d&)
+![Add Paper Screen](https://drive.usercontent.google.com/download?id=1XU2K1K2bU0xmsQUPyHDaUVs_JLWO0L_D)
 
 **Citation Tree Screen**
 
-![Citation Tree Screen](https://cdn.discordapp.com/attachments/635679572469350405/1355949166953758720/image.png?ex=67eac991&is=67e97811&hm=54df598917c7c0923331ae52439a9f99feaa14995aef99a4dae924bdf6f4dc2c&)
+![Citation Tree Screen](https://drive.usercontent.google.com/download?id=15O0qievXRbrO3KkgT2U3SfWQ45FmgaOs)
 
 **Citation Tree Closeup**
 
-![Citation Tree Closeup](https://cdn.discordapp.com/attachments/635679572469350405/1355949224918777876/image.png?ex=67eac99f&is=67e9781f&hm=b5eebebc4e1e75cde6a9644e33e3210777d59a13bc08001866a2a764a29b96b2&)
+![Citation Tree Closeup](https://drive.usercontent.google.com/download?id=1JQtyG7S_eh_17aorruU3jf2paKMELum9)
